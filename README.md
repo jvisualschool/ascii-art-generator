@@ -4,7 +4,6 @@ ASCII Art Text Generator with multiple fonts and styles
 📖 ASCII Art Generator
 완벽한 아스키 아트 생성을 위한 종합 가이드
 
-🎨 생성기로 이동 📱 GitHub
 🚀 빠른 시작
 1. 텍스트 입력
 상단 입력창에 영문자(A-Z)와 숫자(0-9)를 입력하세요. 최대 30글자까지 지원됩니다.
